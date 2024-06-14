@@ -59,9 +59,9 @@ The system addresses long wait times and order errors by providing an easy-to-us
 
 # Interface Design
 
-Main page:
+Main page
 
-![Interface Design]([screenshots/display_records.png](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture3.png))
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture3.png)
 
 Admin setting 
 
@@ -79,16 +79,53 @@ Update meal
 
 ![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture10.png)
 
-![Interface Design](screenshots/display_records.png)
+Delete meal
 
-![Interface Design](screenshots/display_records.png)
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture11.png)
 
-![Interface Design](screenshots/display_records.png)
+Report Generation & Analysis
 
-![Interface Design](screenshots/display_records.png)
+![Interface Design]([screenshots/display_records.png](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture12.png))
 
-![Interface Design](screenshots/display_records.png)
+Sort by name
 
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture13.png)
+
+Sales Graph
+
+![Interface Design]([screenshots/display_records.png](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture14.png))
+
+Customer Sign up
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture15.png)
+
+Customer Login: 
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture16.png)
+
+Customer page
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture17.png)
+
+Customers add a meal
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture19.png)
+
+Customers delete a meal
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture19.png)
+
+Customer payment
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture20.png)
+
+Invoice for customer
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture24.png)
+
+Invoice for Kitchen
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture25.png)
 
 
 # Conclusion
