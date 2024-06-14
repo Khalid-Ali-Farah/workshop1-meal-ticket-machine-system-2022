@@ -41,7 +41,9 @@ Busy food courts often have long lines and order errors, leading to customer dis
 The system addresses long wait times and order errors by providing an easy-to-use, error-free system with a database.
 
 # Structure Chart
-(TODO: Add structure chart diagram here)
+
+![Structure Chart](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5da2477500b45d966cc98f26e9384cc4242cbaf8/images/Picture300.png)
+
 
 # System Design
 
