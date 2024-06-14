@@ -85,7 +85,7 @@ Delete meal
 
 Report Generation & Analysis
 
-![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/c44ba36e5907da49156d810be43df79f1835579d/images/Picture14.png)
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/227702729772289a4a5c3ad6169996baeb49ce77/images/Picture12.png)
 
 Sort by name
 
@@ -93,7 +93,7 @@ Sort by name
 
 Sales Graph
 
-![Interface Design]([screenshots/display_records.png](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/207afd3e7af7c78130dbacec530cd2f565fac969/images/Picture14.png))
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/c44ba36e5907da49156d810be43df79f1835579d/images/Picture14.png)
 
 Customer Sign up
 
