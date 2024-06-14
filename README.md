@@ -49,16 +49,35 @@ The system addresses long wait times and order errors by providing an easy-to-us
 
 *Flowchart*
 
-![Flowchart](screenshots/display_records.png)
+![Flowchart](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture1.png)
 
 
 
 # Data Model (ERD)
-![ERD](screenshots/display_records.png)
+![ERD](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture2.png)
 
 
 # Interface Design
-![Interface Design](screenshots/display_records.png)
+
+Main page:
+
+![Interface Design]([screenshots/display_records.png](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture3.png))
+
+Admin setting 
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture7.png)
+
+Meal Menu Setting
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture8.png)
+
+Add meal
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture9.png)
+
+Update meal
+
+![Interface Design](https://github.com/Khalid-Ali-Farah/workshop1-meal-ticket-machine-system-2022/blob/5745bc6df15c15e72005cf44a2244c614eb4ec23/images/Picture10.png)
 
 ![Interface Design](screenshots/display_records.png)
 
