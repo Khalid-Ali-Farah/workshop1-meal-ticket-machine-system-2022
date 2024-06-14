@@ -135,6 +135,11 @@ The Meal Ticket Machine System is beneficial for both business owners and custom
 
 # Suggestions
 Add pictures of meals and improve graphic design.
+
 Make the system accessible online.
+
 Implement a black-and-white interface.
+
+# By Khalid Ali Farah
+
 
